@@ -12,6 +12,8 @@
 .posts-navigation,
 .post-navigation {
 
+  margin-bottom: $unit-m;
+
   @include clearfix();
 
   .screen-reader-text {
